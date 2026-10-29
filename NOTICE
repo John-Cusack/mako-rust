@@ -1,0 +1,13 @@
+NOTICE — mako-rust
+
+Lane/measurement repository for a port investigation of Mako that ended
+in no_gain (no port code is contained here).
+
+Upstream project: Mako (https://github.com/sqlalchemy/mako),
+Copyright (C) 2006-2026 the Mako authors and contributors, released
+under the MIT License (see upstream LICENSE).
+
+No upstream code is vendored in this repository. The tier-1 patch studied
+during the lane (`tier1-runtime.patch`, held in the lane record, not here)
+is a proposed modification of upstream files, likewise under upstream's MIT
+terms; no upstream PR was opened.
